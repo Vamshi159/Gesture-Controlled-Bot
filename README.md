@@ -1,4 +1,4 @@
- Gesture-Controlled-Bot
+# Gesture-Controlled-Bot
 
 * This is a Hand gesture controlled Bot using Arduino. This is based on Arduino Nano, MPU6050, RF Transmitter-Receiver pair and L293D Motor Driver
 
@@ -21,4 +21,9 @@
   * RF Receiver(434MHz)
   * 33K and 330K Ohm resistors
   * Geared Motors and robot chasis
+ 
+<img src="images/img2.jpg" width='400'>
+<img src="images/img1.jpg" width="400">
+
+
   
